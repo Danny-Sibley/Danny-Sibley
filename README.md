@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hello there I'm Danny 👋
+---
+
+## About Me
+---
+I’m an experienced engineer in the semiconductor industry with a background in physics. Recently graduated from Nucamp’s Back End Developer Bootcamp. Bootcamp entailed 400+ hours of coding and covered Python, SQL, ORM, database architecture, RESTful API’s, DevOps, SDLC, Git, CI/CD and cloud deployment with AWS, GCP and Azure. 
 
 <!--
 **Danny-Sibley/Danny-Sibley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
