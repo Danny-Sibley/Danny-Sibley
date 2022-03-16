@@ -5,7 +5,7 @@
 ---
 I’m an experienced engineer in the semiconductor industry with a background in physics. Recently graduated from Nucamp’s Back End Developer Bootcamp. Bootcamp entailed 400+ hours of coding and covered Python, SQL, ORM, database architecture, RESTful API’s, DevOps, SDLC, Git, CI/CD and cloud deployment with AWS, GCP and Azure. 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Danny-Sibley=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?Danny-SibleyGapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **Danny-Sibley/Danny-Sibley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
