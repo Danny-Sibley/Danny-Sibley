@@ -15,7 +15,7 @@ I’m an experienced engineer in the semiconductor industry with a background in
 
 :outbox_tray: Connect on LinkedIn: https://www.linkedin.com/in/danny-sibley/
 
-:clipboard: [Danny's Resume](https://docs.google.com/document/d/1x5UAK1VHK2YLGpmo-1srRxaI8zkycg7F0hL-H915A-0/edit?usp=sharing)
+:clipboard: [Danny's Resume] (https://docs.google.com/document/d/1UJABzBFkkkCVwmwG3db5NZBt3A22GMBd/edit?usp=sharing&ouid=106446205086049741765&rtpof=true&sd=true) 
 
 <!--
 **Danny-Sibley/Danny-Sibley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
